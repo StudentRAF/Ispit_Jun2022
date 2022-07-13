@@ -1,0 +1,5 @@
+Teren5-O,09:00,Daniil Medvedev,Rafael Nadal
+Teren5-O,12:00,Novak Djoković,Alexander Zverev
+Teren3-O,09:00,Casper Ruud,Stefanos Tsitsipas
+Teren4,09:00,Andrey Rublev,Jannik Sinner
+Teren4,12:00,Daniil Medvedev/Iga Świątek,Anett Kontaveit/Rafael Nadal

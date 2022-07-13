@@ -1,0 +1,100 @@
+1,RUS,Daniil Medvedev
+2,GER,Alexander Zverev
+3,ESP,Rafael Nadal
+4,GRE,Stefanos Tsitsipas
+5,NOR,Casper Ruud
+6,ESP,Carlos Alcaraz
+7,SRB,Novak Djoković
+8,RUS,Andrey Rublev
+9,CAN,Félix Auger-Aliassime
+10,ITA,Jannik Sinner
+11,GBR,Cameron Norrie
+12,POL,Hubert Hurkacz
+13,USA,Taylor Fritz
+14,ARG,Diego Schwartzman
+15,ITA,Matteo Berrettini
+16,CRO,Marin Čilić
+17,USA,Reilly Opelka
+18,ESP,Pablo Carreño Busta
+19,BUL,Grigor Dimitrov
+20,ESP,Roberto Bautista Agut
+21,FRA,Gaël Monfils
+22,USA,John Isner
+23,CAN,Denis Shapovalov
+24,NED,Botic van de Zandschulp
+25,AUS,Alex de Minaur
+26,GEO,Nikoloz Basilashvili
+27,RUS,Karen Khachanov
+28,DEN,Holger Rune
+29,USA,Frances Tiafoe
+30,SRB,Filip Krajinović
+31,SRB,Miomir Kecmanović
+32,USA,Tommy Paul
+33,USA,Jenson Brooksby
+34,ARG,Sebastian Baez
+35,GBR,Daniel Evans
+36,ESP,Alejandro Davidovich Fokina
+37,GER,Oscar Otte
+38,ESP,Albert Ramos Viñolas
+39,ARG,Francisco Cerundolo
+40,RUS,Aslan Karatsev
+41,USA,Maxime Cressy
+42,KAZ,Alexander Bublik
+43,FIN,Emil Ruusuvuori
+44,SVK,Alex Molčan
+45,AUS,Nick Kyrgios
+46,RSA,Lloyd Harris
+47,NED,Tallon Griekspoor
+48,FRA,Benjamin Bonzi
+49,USA,Brandon Nakashima
+50,USA,Mackenzie McDonald
+51,ESP,Pedro Martínez
+52,GBR,Andy Murray
+53,SRB,Laslo Djere
+54,BLR,Ilya Ivashka
+55,FRA,Arthur Rinderknech
+56,CHI,Cristian Garín
+57,SRB,Dušan Lajović
+58,FRA,Hugo Gaston
+59,USA,Sebastian Korda
+60,POR,João Sousa
+61,USA,Marcos Giron
+62,GER,Daniel Altmaier
+63,ITA,Lorenzo Sonego
+64,ITA,Fabio Fognini
+65,ARG,Federico Coria
+66,FRA,Richard Gasquet
+67,ITA,Lorenzo Musetti
+68,ESP,Jaume Munar
+69,CZE,Jiří Veselý
+70,CZE,Jiří Lehečka
+71,BEL,David Goffin
+72,CHI,Alejandro Tabilo
+73,AUS,Thanasi Kokkinakis
+74,BOL,Hugo Dellien
+75,AUS,James Duckworth
+76,FRA,Benoît Paire
+77,ARG,Tomas Martin Etcheverry
+78,AUS,Jordan Thompson
+79,KOR,Soonwoo Kwon
+80,ESP,Roberto Carballés Baena
+81,FRA,Adrian Mannarino
+82,USA,Denis Kudla
+83,ARG,Federico Delbonis
+84,AUS,Alexei Popyrin
+85,FRA,Quentin Halys
+86,AUS,John Millman
+87,ESP,Bernabe Zapata Miralles
+88,GBR,Jack Draper
+89,TPE,Chun hsin Tseng
+90,GER,Peter Gojowczyk
+91,POL,Kamil Majchrzak
+92,SWE,Mikael Ymer
+93,BRA,Thiago Monteiro
+94,ESP,Carlos Taberner
+95,USA,Steve Johnson
+96,HUN,Márton Fucsovics
+97,USA,Jack Sock
+98,SUI,Henri Laaksonen
+99,AUS,Jason Kubler
+100,JPN,Yoshihito Nishioka
